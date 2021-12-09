@@ -1,10 +1,33 @@
-### Hello people 👋
+## Hello World! My name is Rainan Miranda
 
-My name is Rainan Miranda de Jesus, and i am a Júnior Developer
+... and i am a Developer! Sorry for not showing up too much, but you know, privacy is becoming a very valuable asset...
 
-Here are some informations about me:
+Here is my performance:
+<div>
+  <a href="https://github.com/rainanDeveloper">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=rainanDeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&countprivate=true"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainanDeveloper&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on [Naxtool Sistemas](https://www.naxtool.com.br/)
-- 🌱 I’m currently learning JavaScript, NextJs, Nodejs for web and C, C++ for desktop/terminal applications
-- :mortar_board: I did technical school at [IFBA](https://portal.ifba.edu.br/) (Camaçari's Campus)
-- 📫 How to reach me: [Send me an email](mailto:rainan.jesus@pm.me)
+<div>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</div>
+
+-----------------------------------------------------------------------------------------------------
+
+#### Where you can still find me (places that still proves to be worth lose privacy for something):
+
+<div>
+  <a href="mailto:rainan.jesus@pm.me">
+    <img height="28" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rainan-miranda-de-jesus-508a43153/">
+    <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
