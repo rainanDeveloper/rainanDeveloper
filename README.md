@@ -5,8 +5,8 @@
 Here is my performance:
 <div>
   <a href="https://github.com/rainanDeveloper">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=rainanDeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&countprivate=true"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainanDeveloper&layout=compact&theme=tokyonight"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rainanDeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&countprivate=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainanDeveloper&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
