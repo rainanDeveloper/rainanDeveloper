@@ -2,9 +2,9 @@
 
 I am a Software Engineer with about 6+ years of experience, and i love to build software.
 
-- 🔭 I’m currently working on [https://github.com/Naxtool](Naxtool Sistemas)
+- 🔭 I’m currently working on [Naxtool Sistemas](https://github.com/Naxtool)
 - 🌱 I’m currently learning Golang
-- 👯 I’m collaborating on [https://github.com/ODevLibertario/nostrlivery](Nostrlivery Project)
+- 👯 I’m collaborating on [Nostrlivery Project](https://github.com/ODevLibertario/nostrlivery)
 
 Here is my Github performance for now:
 <div>
