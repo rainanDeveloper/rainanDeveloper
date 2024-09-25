@@ -1,8 +1,8 @@
-## Hello World! My name is Rainan Miranda
+## Hello World, I'm Rainan 👋
 
-... and i am a Developer! Sorry for not showing up too much, but you know, privacy is becoming a very valuable asset...
+I am a Software Engineer with about 6+ years of experience, and i love to build software.
 
-Here is my performance:
+Here is my Github performance for now:
 <div>
   <a href="https://github.com/rainanDeveloper">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=rainanDeveloper&layout=compact&show_icons=true&theme=dark"/>
@@ -21,7 +21,7 @@ Here is my performance:
 
 -----------------------------------------------------------------------------------------------------
 
-#### Where you can still find me (places that still proves to be worth lose privacy for something):
+#### Where you can find me:
 
 <div>
   <a href="mailto:rainan.jesus@pm.me">
