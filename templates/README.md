@@ -1,7 +1,7 @@
 ## 👋 Hello World, I'm Rainan
 
 🚀 Software Engineer turning ideas into **scalable web applications**.  
-**8+** years building software with **JavaScript, TypeScript, React, and Go**.  
+**{{EXPERIENCE_YEARS}}** years building software with **JavaScript, TypeScript, React, and Go**.  
 
 - 🔭 Currently working on [Naxtool Sistemas](https://github.com/Naxtool) – building internal tools for businesses  
 - 🌱 Learning **Golang** and exploring backend scalability  
